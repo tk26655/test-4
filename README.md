@@ -144,3 +144,4 @@ Placeholder animacje podczas ładowania.
 - `/jak-to-dziala` — Jak działa Vintera
 - `/kontakt` — Dane kontaktowe
 - `/regulamin` — Regulamin i RODO
+ 
